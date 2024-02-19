@@ -1,4 +1,4 @@
-﻿string[] workArray = FillArray();
+string[] workArray = FillArray();
 string[] resultArray = GenerateNewArray(workArray);
 string firstArray = PrintArray(workArray);
 string secondArray = PrintArray(resultArray);
